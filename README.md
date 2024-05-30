@@ -1,21 +1,14 @@
 ```markdown
 # Flowers Animation Project
 
+##Description
 This project showcases a beautiful flowers animation with a custom banner message using HTML, CSS, and JavaScript. The banner displays the message "I love youuuuu tabi" and fades in after a delay.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Files](#files)
-- [Credits](#credits)
-- [License](#license)
 
 ## Demo
 
-![Demo](./demo.gif)
+![image](https://github.com/CBJdereal/AnimatedFlowersCSS/assets/64748236/e737ff78-dd39-4768-a471-f35e5e2e545e)
+
 
 ## Features
 
@@ -56,6 +49,3 @@ To adjust the delay before the banner appears, change the `animation-delay` prop
 - `style.css`: The CSS file containing styles and animations.
 - `main.js`: The JavaScript file for initial loading effect.
 
-## Credits
-
-- Banner font: [Great Vibes](https://fonts.google.com/specimen/Great+Vibes) by Google Fonts.
