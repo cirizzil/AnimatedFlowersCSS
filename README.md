@@ -1,4 +1,4 @@
-```markdown
+
 # Flowers Animation Project
 
 ##Description
