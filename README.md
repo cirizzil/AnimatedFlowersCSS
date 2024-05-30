@@ -1,7 +1,7 @@
 
 # Flowers Animation Project
 
-##Description
+## Description
 This project showcases a beautiful flowers animation with a custom banner message using HTML, CSS, and JavaScript. The banner displays the message "I love youuuuu tabi" and fades in after a delay.
 
 
