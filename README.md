@@ -40,14 +40,6 @@ This project showcases a beautiful flowers animation with a custom banner messag
 - CSS styles are located in `style.css`.
 - JavaScript functionality is provided in `main.js`.
 
-### Customizing the Banner
-
-To change the banner message, edit the text inside the `div` with the class `banner` in the `index.html` file.
-
-```html
-<div class="banner">I love youuuuu tabi</div>
-```
-
 ### Customizing the Animation Delay
 
 To adjust the delay before the banner appears, change the `animation-delay` property in the CSS for the `.banner` class.
@@ -67,10 +59,3 @@ To adjust the delay before the banner appears, change the `animation-delay` prop
 ## Credits
 
 - Banner font: [Great Vibes](https://fonts.google.com/specimen/Great+Vibes) by Google Fonts.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This `README.md` file provides a clear overview of the project, installation steps, usage instructions, and credits. Feel free to customize it further based on your project's needs.
